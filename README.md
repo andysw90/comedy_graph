@@ -3,14 +3,6 @@
 This repository contains a R script `imdb_network_analysis.R` that analyzes the connections between different actors and television shows using data pulled directly from IMDB. This script takes a predefined list of television shows,
 gathers data about the cast of each show, and then forms a network to analyze the relationships.
 
-## Getting Started
-
-To use the script, clone the repository to your local machine.
-
-```bash
-git clone https://github.com/<username>/imdb-network-analysis.git
-```
-
 ## Dependencies
 
 The script requires the following R libraries:
